@@ -1,0 +1,11 @@
+{
+    "name": "paircodedev/sandbox",
+    "description": "sandbox for paircodedev",
+    "authors": [
+        {
+            "name": "Necmettin Karakaya",
+            "email": "necmettin.karakaya@gmail.com"
+        }
+    ],
+    "require": {}
+}

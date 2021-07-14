@@ -4,9 +4,7 @@
 
 ### Steps to reproduce the issue
 
-1.  
-2. 
-3. 
+1.  Step one
 
 
 ### What's the expected result?

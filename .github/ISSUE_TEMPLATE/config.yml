@@ -1,9 +1,9 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Create paircode.dev request 🧑‍💻
+  - name: 🧑‍💻 Create paircode.dev request.
     url: https://paircode.dev/
     about: Find a developer to get help the issue you issue you're currently facing.
-  - name: Earn money by pair coding.
-    url: https://paircode.dev/as-developer.
+  - name: 💰 Earn money by pair coding.
+    url: https://paircode.dev/
     about: paircode.dev is a microfreelancing platform.
     title: test
